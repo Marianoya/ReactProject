@@ -1,6 +1,4 @@
 import React, { useState } from 'react';
-import PeopleCharacters from './Components/PeopleCharacters';
-import PeopleDetails from './Components/PeopleCharacters';
 import styled from 'styled-components';
 import axios from 'axios';
 import Planets from './Components/Planets';
